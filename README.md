@@ -16,7 +16,7 @@ Mes objectifs personnels en version open-source. L'intérêt étant d'y avoir ac
 
 ## Choses à faire cette semaine
 - [x] Lire ce [blog](http://una.im/personal-goals-guide/)
-- [ ] Créer le repository du journal sur Github
+- [x] Créer le repository du journal sur Github
 - [x] Établir un budget maximal pour les travaux sur la maison
 - [x] Planifier une autre rencontre avec l'architecte
 - [x] Faire le montage du ["film"](https://youtu.be/n6-fhWnIrwE) des trois petits cochons à Jeanne
