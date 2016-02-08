@@ -20,7 +20,7 @@ Mes objectifs personnels en version open-source. L'intérêt étant d'y avoir ac
 - [ ] Brainstormer un premier blog post
 - [ ] Travail - Intégrer les automatismes de déploiement au processus
 - [ ] Travail - Déléguer le déploiement et le suivi des sprints à un collègue pour me libérer du temps
-- [ ] Demander l'évaluation pour la peinture des cadres de fenêtres
+- [x] Demander l'évaluation pour la peinture des cadres de fenêtres
 - [ ] Préparer une activité scientifique pour faire avec Jeanne la semaine prochaine
 
 ## Choses à faire d'ici la fin du mois
