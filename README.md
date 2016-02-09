@@ -16,12 +16,13 @@ Mes objectifs personnels en version open-source. L'intérêt étant d'y avoir ac
 
 ## Choses à faire cette semaine
 - [ ] Lire trois chapitres de [User Story Mapping](https://books.google.ca/books/about/User_Story_Mapping.html?id=W8b-oAEACAAJ&hl=en)
-- [ ] Identifier au moins deux outils de budget en ligne
+- [x] Identifier au moins deux outils de budget en ligne
 - [ ] Brainstormer un premier blog post
 - [ ] Travail - Intégrer les automatismes de déploiement au processus
 - [ ] Travail - Déléguer le déploiement et le suivi des sprints à un collègue pour me libérer du temps
 - [x] Demander l'évaluation pour la peinture des cadres de fenêtres
 - [ ] Préparer une activité scientifique pour faire avec Jeanne la semaine prochaine
+- [ ] S'inscrire aux assurances collectives et faire la réclamation pour mes premiers RV à la clinique
 
 ## Choses à faire d'ici la fin du mois
 - [ ] Terminer de lire [User Story Mapping](https://books.google.ca/books/about/User_Story_Mapping.html?id=W8b-oAEACAAJ&hl=en)
