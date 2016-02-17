@@ -18,7 +18,7 @@ Mes objectifs personnels en version open-source. L'intérêt étant d'y avoir ac
 - [ ] Lire un chapitre de [User Story Mapping](https://books.google.ca/books/about/User_Story_Mapping.html?id=W8b-oAEACAAJ&hl=en)
 - [ ] Travail - Préparer une entrevue pour un nouveau contrat
 - [ ] Travail - Déléguer le suivi des tests à un collègue
-- [ ] Travail - Repousser les tâches non essentielles à plus tard (Rencontres du lundi)
+- [x] Travail - Repousser les tâches non essentielles à plus tard (Rencontres du lundi)
 - [ ] Travail - Mettre au propre mon exemple de réponse au coding challenge 
 - [ ] Planifier une rencontre avec l'architecte pour le choix des matériaux
 - [ ] Préparer le matériel (bouteille, chandelle, etc.) pour l'activité de lundi prochain
