@@ -10,25 +10,27 @@ Mes objectifs personnels en version open-source. L'intérêt étant d'y avoir ac
 - Monter un portfolio pour le travail
 - Mettre de l'ordre dans mes finances personnelles
 
-# 8 Février 2016
+# 15 Février 2016
 
-### Objectif principal de la semaine : Commencer mon blog
+### Objectif principal de la semaine : Déléguer des tâches au travail
 
 ## Choses à faire cette semaine
-- [ ] Lire trois chapitres de [User Story Mapping](https://books.google.ca/books/about/User_Story_Mapping.html?id=W8b-oAEACAAJ&hl=en)
-- [x] Identifier au moins deux outils de budget en ligne
-- [ ] Brainstormer un premier blog post
-- [ ] Travail - Intégrer les automatismes de déploiement au processus
-- [ ] Travail - Déléguer le déploiement et le suivi des sprints à un collègue pour me libérer du temps
-- [x] Demander l'évaluation pour la peinture des cadres de fenêtres
-- [ ] Préparer une activité scientifique pour faire avec Jeanne la semaine prochaine
-- [ ] S'inscrire aux assurances collectives et faire la réclamation pour mes premiers RV à la clinique
+- [ ] Lire un chapitre de [User Story Mapping](https://books.google.ca/books/about/User_Story_Mapping.html?id=W8b-oAEACAAJ&hl=en)
+- [ ] Travail - Préparer une entrevue pour un nouveau contrat
+- [ ] Travail - Déléguer le suivi des tests à un collègue
+- [ ] Travail - Repousser les tâches non essentielles à plus tard (Rencontres du lundi)
+- [ ] Travail - Mettre au propre mon exemple de réponse au coding challenge 
+- [ ] Planifier une rencontre avec l'architecte pour le choix des matériaux
+- [ ] Préparer le matériel (bouteille, chandelle, etc.) pour l'activité de lundi prochain
+- [ ] Prendre rendez-vous pour une prise de sang
+- [ ] Trouver un outil de blogging pour Jenny
+- [ ] Brainstormer un premier lunch-and-learn du mardi 
 
 ## Choses à faire d'ici la fin du mois
 - [ ] Terminer de lire [User Story Mapping](https://books.google.ca/books/about/User_Story_Mapping.html?id=W8b-oAEACAAJ&hl=en)
-- [ ] Trouver un outil en ligne pour gérer mon budget efficacement
+- [x] Trouver un outil en ligne pour gérer mon budget efficacement
 - [ ] Travail - Trouver une activité à faire le mardi midi pour remplacer les vidéos
-- [ ] Monter un blog à Jenny
+- [ ] Mettre au propre un premier blog post et le montrer à Jenny
 - [ ] Penser à une idée de talk pour l'open code et faire un petit brainstorm
 
 ## Backlog
